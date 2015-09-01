@@ -45,6 +45,9 @@ template {
 a {
   background: transparent;
 }
+a:link {
+  color: #F0F8FF;
+}
 a:active,
 a:hover {
   outline: 0;
