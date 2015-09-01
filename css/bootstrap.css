@@ -48,10 +48,10 @@ a {
 a:link {
   color: #F0F8FF;
 }
-a:active,
 a:hover {
   outline: 0;
 }
+a:active,
 abbr[title] {
   border-bottom: 1px dotted;
 }
