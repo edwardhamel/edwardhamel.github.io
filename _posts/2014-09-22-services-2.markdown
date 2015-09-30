@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Radon Inspection
+title: Sample report
 description: |
 ---
-  Link to Radon woman.
+  Put sample report here.
