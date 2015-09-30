@@ -3,13 +3,10 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Hamel Inspections
+title: Hamel Home Inspections | Northampton, Amherst, Pioneer Valley, MA
 email: mariahhamel@gmail.com
 author: Mariah Hamel
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+description: Home inspections to give you the confidence to make informed decisions when purchasing your new home. Our focus is on complete, understandable, and thorough reports.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -23,10 +20,10 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+#social:
+  #- title: twitter
+    #url: https://twitter.com/SBootstrap
+  #- title: github
+    #url: https://github.com/IronSummitMedia/startbootstrap
+ # - title: linkedin
+    #url: 
