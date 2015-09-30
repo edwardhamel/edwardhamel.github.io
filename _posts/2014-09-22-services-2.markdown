@@ -5,4 +5,4 @@ category: Services
 title: Sample report
 description: |
 ---
-  Put sample report here.
+We believe that an inspection report should be thorough, concise, and easy to read. We're proud of our ability to convey important building details with simple explanations and informative photos.
