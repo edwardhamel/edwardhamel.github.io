@@ -2,7 +2,9 @@
 layout: default
 img: phones.png
 category: Services
-title: Water testing
+title: Recommended colleagues
 description: |
 ---
-Information for water testing.
+**Radon Testing:** Name, phone number.
+
+**Water Testing:** Name, phone number.
