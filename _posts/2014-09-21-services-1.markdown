@@ -5,4 +5,9 @@ category: Services
 title: Inspection Services
 description: |
 ---
-  Say some stuff about inspections.
+A standard home inspection is a visual examination of the physical structure and major interior systems (heating, electrical, plumbing) of a residential property. 
+
+* Licensed Massachusetts Home Inspector (No. 769)
+* Personalized on-site walk through, followed by thorough report with informative photos.
+* Complete reports within 24 hours (generally same day)
+* Buyer's and Seller's inspections
