@@ -16,6 +16,9 @@ description: Home inspections to give you the confidence to make informed decisi
 markdown: kramdown
 permalink: pretty
 
+gems:
+  - jekyll-sitemap
+
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
