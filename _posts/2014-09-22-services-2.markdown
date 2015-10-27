@@ -6,3 +6,5 @@ title: Sample report
 description: |
 ---
 We believe that an inspection report should be thorough, concise, and easy to read. We're proud of our ability to convey important building details with simple explanations and informative photos.
+
+**[Sample Report](/reports/sample-inspection.pdf)**
