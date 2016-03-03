@@ -10,5 +10,5 @@ description: |
 |**Radon Testing:**| | [Ahern Radon Testing](http://www.ahearnradon.com/)|
 |**Water Testing:**| | [EnviroTech Laboratory](http://www.envtechlab.com/)|
 |**Termite Inspections:** |  | Baystate Exterminating| 
-| ||  | |Phone: 413-427-2857| 
+| | |Phone: 413-427-2857| 
 
